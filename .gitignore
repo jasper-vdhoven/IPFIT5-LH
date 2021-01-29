@@ -1,0 +1,16 @@
+notes
+dist/Output
+build/*
+eventScannerResults.log
+file-scan-results.txt
+IOC_lijst-test.txt
+dist/IOC_lijst.txt
+main.spec
+config.py
+eventOutput.json
+Input/textfile.txt
+Main-test/file_logging.log
+Output/logging.log
+Output/process-scan-results.txt
+Output/registry-scan-results.txt
+Output/Scan results.txt
